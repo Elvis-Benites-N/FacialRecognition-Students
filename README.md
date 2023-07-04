@@ -3,9 +3,11 @@ Este repositorio se enfoca en el desarrollo de un sistema basado en redes neuron
 
 ## Instrucciones de instalación y uso
 
-1. Descarga el repositorio como un archivo ZIP desde la siguiente dirección: [https://github.com/Elvis-Benites-N/FacialRecognition-Students.git](https://github.com/Elvis-Benites-N/FacialRecognition-Students.git).
-
-2. Descomprime el archivo descargado. Luego, descomprime el archivo `data.zip`, lo cual debería generar una carpeta con la siguiente estructura:
+1. Descarga el repositorio como un archivo ZIP desde la siguiente dirección: [https://github.com/Elvis-Benites-N/FacialRecognition-Students.git](https://github.com/Elvis-Benites-N/FacialRecognition-Students.git) o clonal el repositorio con el siguiente comando:
+```bash
+git clone https://github.com/Elvis-Benites-N/FacialRecognition-Students.git
+```
+3. Descomprime el archivo descargado. Luego, descomprime el archivo `data.zip`, lo cual debería generar una carpeta con la siguiente estructura:
 
 ```
 .
